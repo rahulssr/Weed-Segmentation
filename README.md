@@ -12,4 +12,4 @@ as from crops in images. This multiclass semantic segmentation is based upon the
 
 ### Overview of the Model
 
-<img src= images/overview.png  width = "300" height = "130">
+<img src= images/Overview.png  width = "600" height = "300">
