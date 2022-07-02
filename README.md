@@ -59,3 +59,15 @@ J(y) = BCEB(y) + BCEM(y)
 
 <img src= images/U2.png  width = "1000" height = "500">
 
+### Results
+
+We have used kaggle GPU accelearator for model learning
+and training . The IDE used are VS code,Jupyter and PyCharm
+.The Packages used are tensorflow , pytorch, and OpenCV
+
+Our modified model is successfully generating the multi segmented mask
+
+<img src= images/results.jpg  width = "800" height = "400">
+
+
+
