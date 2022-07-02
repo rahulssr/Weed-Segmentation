@@ -67,7 +67,7 @@ and training . The IDE used are VS code,Jupyter and PyCharm
 
 Our modified model is successfully generating the multi segmented mask
 
-<img src= images/results.jpg  width = "800" height = "400">
+<img src= images/Results.jpg  width = "800" height = "400">
 
 
 
