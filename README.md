@@ -15,4 +15,19 @@ as from crops in images. This multiclass semantic segmentation is based upon the
 <img src= images/Overview.png  width = "1000" height = "500">
 
 
-###
+### Dataset
+The images was taken from majorly four angles namely
+top,bottom,left and right .The images of different segments
+of fields were taken consisting of onion crop and weeds
+of slightly different age or growth stage so as to maintain
+versatility and generality in dataset ,which would help in
+better training of the model. The entire work of building and
+collection of dataset was carried out with the help of our
+collaborator - Indira Gandhi Krishi Vishwavidyalaya, Raipur.
+It also included some practical scenarios which appears on
+the fields including shadows and difference in amount of
+light at different time of the day
+
+### Model Architecture
+
+
