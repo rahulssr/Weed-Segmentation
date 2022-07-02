@@ -42,6 +42,9 @@ leaf texture, image characteristics, texture and color coding of
 background shadows and contrast areas The loss function in
 the vanilla UNET model is binary cross entropy(BCE)
 
+<img src= images/unet.png  width = "1000" height = "500">
+
+
 
 
 Our model is a combination of two UNET with certain skip connections illustrated in architecture The left part
