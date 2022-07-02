@@ -31,6 +31,19 @@ light at different time of the day
 <img src= images/dataset.jpg  width = "800" height = "400">
 
 ### Model Architecture
+
+In a vanilla UNET there are skip connections i.e each layer
+of encoder part is concatanated with the respective layers of
+the decoder part illustrated in 
+The Skip connections primarily helps in capturing the lowlevel features such as edges, color, gradient orientation and
+then combining with the later layers so that there is no case
+of feature missing Here, minute details such as onion crop
+leaf texture, image characteristics, texture and color coding of
+background shadows and contrast areas The loss function in
+the vanilla UNET model is binary cross entropy(BCE)
+
+
+
 Our model is a combination of two UNET with certain skip connections illustrated in architecture The left part
 of the model segments the image into binary segmentation
 and acts as input for the right part of the model which then
