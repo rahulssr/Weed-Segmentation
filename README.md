@@ -31,5 +31,15 @@ light at different time of the day
 <img src= images/dataset.jpg  width = "800" height = "400">
 
 ### Model Architecture
+Our model is a combination of two UNET with certain skip connections illustrated in architecture The left part
+of the model segments the image into binary segmentation
+and acts as input for the right part of the model which then
+multi segments the image and thus the combination of both is
+formed
+The loss function is BCE Loss of both the binary part and
+multi part
 
+J(y) = BCEB(y) + BCEM(y) 
+
+<img src= images/U2.png  width = "1000" height = "500">
 
