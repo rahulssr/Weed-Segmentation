@@ -28,6 +28,8 @@ It also included some practical scenarios which appears on
 the fields including shadows and difference in amount of
 light at different time of the day
 
+<img src= images/dataset.jpg  width = "500" height = "500">
+
 ### Model Architecture
 
 
