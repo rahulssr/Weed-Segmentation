@@ -70,4 +70,4 @@ Our modified model is successfully generating the multi segmented mask
 <img src= images/Results.jpg  width = "800" height = "400">
 
 
-
+Dataset: https://www.kaggle.com/datasets/shubhamsharma212001/testing2
