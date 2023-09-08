@@ -1,4 +1,4 @@
-### Introduction
+# Weed-Pro :  Precision Weed Detection and Segmentation 🌱🔍
 
 Weed are the unwanted plants on the field, they are harmful to crop yield as they compete for the resources with
 the main crop which on initial stage of the crop may lead to nutrient deficiency and ultimately crop failure. Precise weed
