@@ -1,4 +1,12 @@
-# Weed-Pro :  Precision Weed Detection and Segmentation 🌱🔍
+# Weed-Pro :  Precision Weed Detection and Segmentation 🌱🌱 
+
+## Dataset Collection 🔍🔍
+
+During the vibrant summer at IGKV (Indira Gandhi Krishi Vishwavidyalaya), our dedicated team ventured into the fields to capture a distinctive blend of high-resolution images, showcasing various weeds and the Onion (Allium cepa L.).
+![Space for the data collection picture] With the aim of distinguishing the subtle nuances between each plant type,
+we carefully selected shots taken in natural lighting conditions. After collecting the images,
+each one was meticulously annotated using the 'LabelMe' tool, ensuring precision for future machine learning applications. 
+![Space for the annotation process picture]
 
 Weed are the unwanted plants on the field, they are harmful to crop yield as they compete for the resources with
 the main crop which on initial stage of the crop may lead to nutrient deficiency and ultimately crop failure. Precise weed
